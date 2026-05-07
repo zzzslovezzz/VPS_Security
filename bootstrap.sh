@@ -5,7 +5,7 @@ USER_NAME="leo"
 USER_PASSWORD="1234"
 SSH_PORT="1022"
 PUBLIC_KEY='ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH1QwdX1h/DsfDDjwVVsHYSrFb7ZOfbWN0UIpxlg8EFE leo@vps'
-ACME_EMAIL="admin@example.com"
+ACME_EMAIL="slove,mowe@gmail.com"
 
 if [ "$(id -u)" -ne 0 ]; then
   echo "Run as root"
